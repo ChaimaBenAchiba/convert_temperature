@@ -37,7 +37,7 @@ Converted Temperatures:
 
 # How It Works
 
-This project is developed using a programming language of your choice (e.g., Python, JavaScript) and utilizes simple mathematical formulas to perform temperature conversions.
+This project is developed using the Python programming language and utilizes simple mathematical formulas to perform temperature conversions.
 
 # About Prodigy Infotech
 
