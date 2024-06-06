@@ -5,7 +5,9 @@ Welcome to Task-01! This project is a Temperature Conversion Program developed b
 # Features 
 
 •	Convert temperatures between Celsius, Fahrenheit, and Kelvin scales.
+
 •	Prompt the user to input a temperature value and the original unit of measurement.
+
 •	Display the converted values to the user.
 
 # How to use 
