@@ -1,6 +1,6 @@
 # 📝 Task-01: Temperature Conversion Program
 
-Welcome to Task-01! This project is a Temperature Conversion Program developed by Prodigy Infotech. With this program, users can easily convert temperatures between Celsius, Fahrenheit, and Kelvin scales.
+Welcome to Task-01! This project is a Temperature Conversion Program developed by. With this program, users can easily convert temperatures between Celsius, Fahrenheit, and Kelvin scales.
 
 # Features 
 
@@ -39,8 +39,4 @@ Converted Temperatures:
 
 This project is developed using the Python programming language and utilizes simple mathematical formulas to perform temperature conversions.
 
-# About Prodigy Infotech
-
-Prodigy Infotech is dedicated to delivering innovative solutions to meet the needs of modern businesses. Task-01 showcases our commitment to developing useful and efficient software programs.
-3.5
 
