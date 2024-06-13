@@ -1,6 +1,6 @@
 # 📝 Task-01: Temperature Conversion Program
 
-Welcome to Task-01! This project is a Temperature Conversion Program . With this program, users can easily convert temperatures between Celsius, Fahrenheit, and Kelvin scales.
+Welcome to Task-01! This project is a Temperature Conversion Program . With this program, we can easily convert temperatures between Celsius, Fahrenheit, and Kelvin scales.
 
 # Features 
 
